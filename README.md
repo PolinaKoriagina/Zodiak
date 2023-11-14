@@ -20,7 +20,7 @@ Welcome to Zodiak, a simple and interactive web app that allows users to discove
 4. View your zodiac sign, date range, and a brief description of the associated characteristics.
 
 //Please find some pictures of my project
-//![index](https://github.com/PolinaKoriagina/Zodiak/raw/main/images/image.png)
+//![index](https://github.com/PolinaKoriagina/Zodiak/blob/main/images/index.png)
 
 
 ## Presentation
